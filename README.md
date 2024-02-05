@@ -3,7 +3,7 @@
 This repository contains files and codes used in the thesis "Exploring Models’ Performance for Abusive Language Detection: The Case of Obfuscated Abusive Terms" in partial fulfilment of the requirements for the degree of MA Linguistic
 (Text Mining) at Vrije Universiteit Amsterdam. Februari 2024. 
 
-The study focuses on exploring SVM and BERT models performance in detecting abusive language, particularly focused on introducing various obfuscation techniques targetted swear words. The obfuscation techniques applied are inspired
+The study focuses on exploring SVM and BERT models performance in detecting abusive language, particularly focuses on introducing various obfuscation techniques targetted swear words. The obfuscation techniques applied are inspired
 by the real-world scenario within the DreamsLab Project (https://krr.cs.vu.nl/). 
 
 # Structure of repositories
